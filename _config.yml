@@ -1,5 +1,5 @@
 # Site settings
-title: RWD
+title: RumahWebDesign
 header-img: img/home-bg.jpg
 email: syahrul110100@gmail.com
 copyright_name: RumahWebDesign
@@ -8,7 +8,7 @@ baseurl: "/blog"
 url: "https://rwd.github.io"
 twitter_username: syahrul110100
 github_username:  alungopal
-facebook_username:  #
+facebook_username:  alung
 email_username:  chiefeorwd@gmail.com
 
 # Build settings
